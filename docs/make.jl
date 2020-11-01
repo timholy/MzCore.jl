@@ -18,4 +18,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/timholy/MzCore.jl",
+    devbranch="main",
 )
